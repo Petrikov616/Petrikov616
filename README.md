@@ -24,7 +24,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:hincapiezuleta813@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hincapiezuleta813@gmail.com"><img src="https://img.shields.io/badge/-Samuel.Z.H-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https:///https://www.instagram.com/samu.x1999?igsh=YWt0ZHVvOHNtbHMx/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
